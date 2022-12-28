@@ -1,0 +1,31 @@
+{
+	"nom y ape": [
+		{
+			"nombre": [
+				"Mayra",
+				"Daniela"
+			],
+			"apellido": [
+				"Gola",
+				"Conejos"
+			]
+		}
+	],
+	"edad": 25,
+	"educacion": [
+		{
+			"estado": "en curso",
+			"mayor grado": "universitario incompleto",
+			"beca": "no"
+		}
+	],
+	"experiencia": [
+		{
+			"posee empleo": "no",
+			"busca": "no",
+			"exp laboral": "ninguna",
+			"area de exp": "-",
+			"posibilidad de pasantia": "no"
+		}
+	]
+}
